@@ -20,6 +20,4 @@
 <!-- These resources are around just to allow their values to be customized
      for different hardware and product builds. -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
- <!-- Hardware keys on/off option -->
-      <bool name="config_hwKeysPref">true</bool>
 </resources>
